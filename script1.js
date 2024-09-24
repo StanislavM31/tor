@@ -103,3 +103,4 @@ class CanvasDrawer {
 
   const game = new Game("canvas");
   game.render();
+
